@@ -1,4 +1,5 @@
-Title: About
+title: About
+category: meta
 
 # About
 

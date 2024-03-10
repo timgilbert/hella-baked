@@ -1,0 +1,15 @@
+on:
+  push:
+    branches: 
+    - pelican
+
+jobs:
+  pelican_build:
+    runs-on: ubuntu-latest
+    name: Building via pelican
+    steps:
+      - uses: actions/checkout@v2
+      - uses: bimbimprasetyoafif/pelican-simple@v1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GH_PAGES_BRANCH: rendered

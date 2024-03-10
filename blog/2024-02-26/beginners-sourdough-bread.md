@@ -1,5 +1,8 @@
 title: Beginner's Sourdough Bread
 date: 2024-02-26
+tags: bread, sourdough, failure
+summary: Beginner's Sourdough Bread
+category: breadlog
 
 # Beginner's Sourdough Bread
 https://www.theperfectloaf.com/beginners-sourdough-bread/
@@ -42,6 +45,6 @@ https://www.theperfectloaf.com/beginners-sourdough-bread/
 ### Proof in fridge
 ### Results
 - Never did rise or be able to be shaped. Baked it anyways in the dutch oven. Good texture, taste, crust. Low, squat loaf. Not bad crumb, though.
-- Pancake: ![[pancake.jpg]]
-- Baked: ![[baked.jpg]]
-- Sliced: ![[sliced.jpg]]
+- Pancake: ![Pancake]({attach}pancake.jpg)
+- Baked: ![Baked]({attach}baked.jpg)
+- Sliced: ![Sliced]({attach}sliced.jpg)

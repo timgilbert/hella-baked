@@ -3,4 +3,4 @@ category: meta
 
 # About
 
-This is my brutalist bread blog.
+This is my brutalist baking blog. These are quite rough notes.

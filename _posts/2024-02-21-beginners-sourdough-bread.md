@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Beginner's Sourdough Bread
 date: 2024-02-21
 tags: bread sourdough failure

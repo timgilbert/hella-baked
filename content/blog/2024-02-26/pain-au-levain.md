@@ -1,3 +1,6 @@
+title: Pain au Levain
+date: 2024-02-26
+
 https://www.kingarthurbaking.com/recipes/pain-au-levain-recipe
 Going to try making a batard here, also making the full recipe for 2 loaves
 # Levain

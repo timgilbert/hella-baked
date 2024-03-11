@@ -37,5 +37,5 @@ jobs:
         env:
           REPO: self
           BRANCH: rendered
-          FOLDER: output
+          FOLDER: _site
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}  

@@ -1,6 +1,5 @@
 ---
 title: Pain au Levain
-date: 2024-02-26
 tags: bread sourdough
 summary: KA pain au levain
 category: breadlog

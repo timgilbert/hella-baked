@@ -1,6 +1,5 @@
 ---
 title: Beginner's Sourdough Bread, Take 2
-date: 2024-02-23
 tags: bread sourdough
 summary: Beginner's Sourdough Bread
 category: breadlog

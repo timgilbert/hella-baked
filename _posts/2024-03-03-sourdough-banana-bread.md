@@ -1,6 +1,5 @@
 ---
 title: Sourdough Banana Bread
-date: 2024-03-03
 tags: bread sourdough
 category: breadlog
 ---

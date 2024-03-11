@@ -1,6 +1,5 @@
 ---
 title: Beginner's Sourdough Bread
-date: 2024-02-21
 tags: bread sourdough failure
 summary: Beginner's Sourdough Bread
 category: breadlog

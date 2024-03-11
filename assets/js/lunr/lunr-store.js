@@ -22,4 +22,10 @@ var store = [{
         "tags": ["bread","sourdough"],
         "url": "/breadlog/2024/03/03/sourdough-banana-bread.html",
         "teaser": null
+      },{
+        "title": "\"Pumpernickel\"",
+        "excerpt":"From Pantry Mama pretty tough to shape, v. sticky. Managed to get it somewhat boule-ish with a bench scraper. Had no malt. Used leftover coffee but only had 210g, used water for the rest Proof in fridge starting at 11:30. Added (toasted) caraway seeds to the initial autolyse (didn’t add...","categories": ["breadlog"],
+        "tags": ["bread","sourdough"],
+        "url": "/breadlog/2024/03/06/pumpernickel.html",
+        "teaser": null
       }]

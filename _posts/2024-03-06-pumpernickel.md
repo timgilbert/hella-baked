@@ -16,11 +16,12 @@ From [Pantry Mama](https://www.pantrymama.com/sourdough-pumpernickel-bread/)
 - Nice-looking loaf, if not as tall as I would like. 
 - Getting better at scoring, looks pretty.
 
-![Cool](/assets/images/2024-03-05/cool.jpg)
-![Shape](/assets/images/2024-03-05/shape.jpg)
+{% picture jpt-webp 2024-03-05/cool.jpg --alt Cooling %}
+
+{% picture jpt-webp 2024-03-05/shape.jpg --alt Nice shape %}
 
 Crumb could be darker.
 
-![Crumb](/assets/images/2024-03-05/crumb.jpg)
+{% picture jpt-webp 2024-03-05/crumb.jpg --alt Crumb %}
 
 Good flavor, and nice sweet smell from the molasses.

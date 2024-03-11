@@ -40,6 +40,7 @@ theme: minimal-mistakes-jekyll
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-feed
 
 defaults:
   - scope:
@@ -59,6 +60,9 @@ defaults:
 picture:
   source: "assets/images/full"
   output: "assets/images/generated"
+
+sass:
+  quiet_deps: true
 
 # Exclude from processing.
 exclude:

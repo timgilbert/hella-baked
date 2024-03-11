@@ -12,7 +12,7 @@ Going to try making a batard here, also making the full recipe for 2 loaves
 - My starter was slightly tired-looking, hope everything is cool
 - Surprisingly stiff
 - Started at 4:30pm. For a 12 hour ferment, that's not a great schedule. May refrigerate for a few hours to slow it down.
-![levain](/assets/images/2024-02-26/levain.jpg)
+{% picture jpt-webp 2024-02-26/levain.jpg --alt Levain %}
 
 # Dough
 - Seems ok. First fold at 45 minutes (12:30pm).
@@ -24,13 +24,13 @@ Going to try making a batard here, also making the full recipe for 2 loaves
 - Made my _bâtard premiere_
 - Batard is the smaller one. Put it in the fridge to retard, 3:45pm
 - The big guy I made into a boule, proofing on counter, should be ready for baking around 5:45
-![pre-shape](/assets/images/2024-02-26/divide.jpg)
+{% picture jpt-webp 2024-02-26/divide.jpg --alt Divided %}
 
 # Boule, shaping and scoring
-![proof](/assets/images/2024-02-26/boule-proof.jpg)
+{% picture jpt-webp 2024-02-26/boule-proof.jpg --alt boule proofing %}
 
 Scoring:
-![score](/assets/images/2024-02-26/boule-score.jpg)
+{% picture jpt-webp 2024-02-26/boule-score.jpg --alt boule scored %}
 
 
 # Boule, baking
@@ -41,15 +41,14 @@ Scoring:
 - Cooling for 1hr30
 - 9pm - cut. Not bad! Better crumb than last time, no gummy bits. Cooled for ~2+ hours.
 
-### Boule Results
+## Boule Results
 Best yet! Spongy, wheaty, nice taste. Awesome toasted. Not tons of tang/sourness, but still delicious. Maybe the bâtard will be more sour?
-![baked](/assets/images/2024-02-26/boule-baked.jpg)
-![crumb](/assets/images/2024-02-26/boule-crumb.jpg)
-![toast](/assets/images/2024-02-26/boule-toast.jpg)
+{% picture jpt-webp 2024-02-26/boule-baked.jpg --alt boule baked %}
+{% picture jpt-webp 2024-02-26/boule-crumb.jpg --alt boule crumb %}
+{% picture jpt-webp 2024-02-26/boule-toast.jpg --alt boule toasted %}
 
 Bottom of the crust is pretty black, was tough to cut:
-![bottom](/assets/images/2024-02-26/boule-bottom.jpg)
-
+{% picture jpt-webp 2024-02-26/boule-bottom.jpg --alt boule bottom %}
 
 
 ## Bâtard Results
@@ -60,6 +59,6 @@ Bottom of the crust is pretty black, was tough to cut:
 - Due to a bread surplus, didn't cut this open for a day or two.
 - Crumb is for some reason lighter. Good structure though.
 
-![baking](/assets/images/2024-02-26/batard-baking.jpg)
-![baked](/assets/images/2024-02-26/batard-baked.jpg)
-![crumb](/assets/images/2024-02-26/batard-crumb.jpg)
+{% picture jpt-webp 2024-02-26/batard-baking.jpg --alt batard baking %}
+{% picture jpt-webp 2024-02-26/batard-baked.jpg --alt batard baked %}
+{% picture jpt-webp 2024-02-26/batard-crumb.jpg --alt batard crumb %}

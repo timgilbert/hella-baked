@@ -46,6 +46,6 @@ From [The Perfect Loaf](https://www.theperfectloaf.com/beginners-sourdough-bread
 ### Proof in fridge
 ### Results
 - Never did rise or be able to be shaped. Baked it anyways in the dutch oven. Good texture, taste, crust. Low, squat loaf. Not bad crumb, though.
-- Pancake: {% picture jpt-webp 2024-02-21/pancake.jpg --alt pancake %}
-- Baked: {% picture jpt-webp 2024-02-21/baked.jpg --alt baked %}
-- Sliced: {% picture jpt-webp 2024-02-21/sliced.jpg --alt sliced %}
+- Pancake: {% picture 2024-02-21/pancake.jpg --alt pancake %}
+- Baked: {% picture 2024-02-21/baked.jpg --alt baked %}
+- Sliced: {% picture 2024-02-21/sliced.jpg --alt sliced %}

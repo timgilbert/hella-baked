@@ -61,13 +61,13 @@ Mix and cover, 1 hour room temp
 - Proofed in oven at above for 20 mins, in the fridge at 9:30pm.
 	- Tomorrow: preheat 12:30, bake 1:00pm, cool 1:50pm, eat 2:50-3:50pm.
 - Shaped loaf:
-  {% picture jpt-webp 2024-02-23/shaped.jpg --alt shaped %}
+  {% picture 2024-02-23/shaped.jpg --alt shaped %}
 # Result
 - Decent structure. Round was a little wonky and off-kilter, but basically the right shape. Good oven spring. 
-  {% picture jpt-webp 2024-02-23/baked.jpg --alt baked %}
+  {% picture 2024-02-23/baked.jpg --alt baked %}
 - Crust: excellent! A tad hard to cut on the bottom though.
 - Crumb: not great? 
-  {% picture jpt-webp 2024-02-23/sliced.jpg --alt sliced %}
+  {% picture 2024-02-23/sliced.jpg --alt sliced %}
 	- A few big holes, mostly pretty dense, sandwichy crumb
 	- A few gummy spots where it looks like the bread didn't cook long enough
 	- Didn't measure temp when I took it out

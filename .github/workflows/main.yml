@@ -15,7 +15,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run pelican
-        run: pelican content -o output -s pelicanconf.py
+        run: pelican content -o output -s publishconf.py
       - name: Publish to branch
         uses: s0/git-publish-subdir-action@develop
         env:

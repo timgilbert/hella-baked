@@ -15,7 +15,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run pelican
-        run: pelican content -o output -s publishconf.py
+        run: pelican content -o output -s publishconf.py -t Flex
       - name: sanity check
         run: ls -R output
       - name: Publish to branch

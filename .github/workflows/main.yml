@@ -16,6 +16,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run pelican
         run: pelican content -o output -s publishconf.py
+      - name: sanity check
+        run: ls -R output
       - name: Publish to branch
         uses: s0/git-publish-subdir-action@develop
         env:

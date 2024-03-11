@@ -6,6 +6,8 @@ summary: Beginner's Sourdough Bread
 category: breadlog
 ---
 
+From [The Perfect Loaf](https://www.theperfectloaf.com/beginners-sourdough-bread/)
+
 ## Schedule
 https://www.theperfectloaf.com/beginners-sourdough-bread/#h-baking-schedule
 - 11am levain

@@ -6,7 +6,8 @@ summary: KA pain au levain
 category: breadlog
 ---
 
-https://www.kingarthurbaking.com/recipes/pain-au-levain-recipe
+From [King Arthur](https://www.kingarthurbaking.com/recipes/pain-au-levain-recipe)
+
 Going to try making a batard here, also making the full recipe for 2 loaves
 # Levain
 - My starter was slightly tired-looking, hope everything is cool

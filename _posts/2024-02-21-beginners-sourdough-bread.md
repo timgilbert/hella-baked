@@ -6,8 +6,8 @@ summary: Beginner's Sourdough Bread
 category: breadlog
 ---
 
-# Beginner's Sourdough Bread
-https://www.theperfectloaf.com/beginners-sourdough-bread/
+From [The Perfect Loaf](https://www.theperfectloaf.com/beginners-sourdough-bread/)
+
 - making 1 loaf, 1/2 formula
 ### Levain, 9:40am:
 - 19g starter

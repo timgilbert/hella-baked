@@ -11,13 +11,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: recursive
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run pelican
-        run: pelican content -o output -s publishconf.py -t theme/Flex
+        run: pelican content -o output -s publishconf.py
       - name: sanity check
-        run: ls theme; echo "========"; ls -R output
+        run: ls theme/*; echo "========"; ls -R output
       - name: Publish to branch
         uses: s0/git-publish-subdir-action@develop
         env:

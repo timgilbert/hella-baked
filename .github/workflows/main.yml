@@ -8,10 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     name: Building via pelican
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
         with:
           submodules: true
-      - uses: bimbimprasetyoafif/pelican-simple@v1
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run pelican
+        run: pelican ${content_folder} -o output -s ${config_file}
+      - name: Publish to branch
+        uses: s0/git-publish-subdir-action@develop
         env:
+          REPO: self
+          BRANCH: rendered
+          FOLDER: output
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          GH_PAGES_BRANCH: rendered

@@ -9,6 +9,8 @@ jobs:
     name: Building via pelican
     steps:
       - uses: actions/checkout@v2
+        with:
+          submodules: true
       - uses: bimbimprasetyoafif/pelican-simple@v1
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

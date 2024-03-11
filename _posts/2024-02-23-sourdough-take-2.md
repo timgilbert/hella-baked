@@ -1,8 +1,11 @@
+---
+layout: post
 title: Beginner's Sourdough Bread, Take 2
 date: 2024-02-23
-tags: bread, sourdough
+tags: bread sourdough
 summary: Beginner's Sourdough Bread
 category: breadlog
+---
 
 ## Schedule
 https://www.theperfectloaf.com/beginners-sourdough-bread/#h-baking-schedule
@@ -57,11 +60,11 @@ Mix and cover, 1 hour room temp
 - Oven has a "proof" setting - unfortunately, it's 100F minimum
 - Proofed in oven at above for 20 mins, in the fridge at 9:30pm.
 	- Tomorrow: preheat 12:30, bake 1:00pm, cool 1:50pm, eat 2:50-3:50pm.
-- Shaped loaf: ![Shaped]({attach}shaped.jpg)
+- Shaped loaf: ![Shaped](/assets/images/2024-02-23/shaped.jpg)
 # Result
-- Decent structure. Round was a little wonky and off-kilter, but basically the right shape. Good oven spring. ![Baked]({attach}baked.jpg)
+- Decent structure. Round was a little wonky and off-kilter, but basically the right shape. Good oven spring. ![Baked](/assets/images/2024-02-23/baked.jpg)
 - Crust: excellent! A tad hard to cut on the bottom though.
-- Crumb: not great? ![Sliced]({attach}sliced.jpg)
+- Crumb: not great? ![Sliced](/assets/images/2024-02-23/sliced.jpg)
 	- A few big holes, mostly pretty dense, sandwichy crumb
 	- A few gummy spots where it looks like the bread didn't cook long enough
 	- Didn't measure temp when I took it out

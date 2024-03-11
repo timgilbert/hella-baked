@@ -1,6 +1,7 @@
+---
+layout: page
 title: About
-category: meta
-
-# About
+permalink: /about/
+---
 
 This is my brutalist baking blog. These are quite rough notes.

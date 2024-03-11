@@ -1,5 +1,11 @@
+---
+layout: post
 title: Pain au Levain
 date: 2024-02-26
+tags: bread sourdough
+summary: KA pain au levain
+category: breadlog
+---
 
 https://www.kingarthurbaking.com/recipes/pain-au-levain-recipe
 Going to try making a batard here, also making the full recipe for 2 loaves
@@ -7,7 +13,7 @@ Going to try making a batard here, also making the full recipe for 2 loaves
 - My starter was slightly tired-looking, hope everything is cool
 - Surprisingly stiff
 - Started at 4:30pm. For a 12 hour ferment, that's not a great schedule. May refrigerate for a few hours to slow it down.
-![levain]({attach}levain.jpg)
+![levain](/assets/images/2024-02-26/levain.jpg)
 # Dough
 - Seems ok. First fold at 45 minutes (12:30pm).
 - Didn't oil bowl, dough stuck a bit

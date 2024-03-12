@@ -12,7 +12,7 @@ Going to try making a batard here, also making the full recipe for 2 loaves
 - My starter was slightly tired-looking, hope everything is cool
 - Surprisingly stiff
 - Started at 4:30pm. For a 12 hour ferment, that's not a great schedule. May refrigerate for a few hours to slow it down.
-![Levain](../assets/images/full/2024-02-26/levain.jpg)
+![Levain](../images/full/2024-02-26/levain.jpg)
 
 # Dough
 - Seems ok. First fold at 45 minutes (12:30pm).
@@ -24,13 +24,13 @@ Going to try making a batard here, also making the full recipe for 2 loaves
 - Made my _bâtard premiere_
 - Batard is the smaller one. Put it in the fridge to retard, 3:45pm
 - The big guy I made into a boule, proofing on counter, should be ready for baking around 5:45
-![Divided](../assets/images/full/2024-02-26/divide.jpg)
+![Divided](../images/full/2024-02-26/divide.jpg)
 
 # Boule, shaping and scoring
-![boule proofing](../assets/images/full/2024-02-26/boule-proof.jpg)
+![boule proofing](../images/full/2024-02-26/boule-proof.jpg)
 
 Scoring:
-![boule scored](../assets/images/full/2024-02-26/boule-score.jpg)
+![boule scored](../images/full/2024-02-26/boule-score.jpg)
 
 
 # Boule, baking
@@ -43,12 +43,12 @@ Scoring:
 
 ## Boule Results
 Best yet! Spongy, wheaty, nice taste. Awesome toasted. Not tons of tang/sourness, but still delicious. Maybe the bâtard will be more sour?
-![boule baked](../assets/images/full/2024-02-26/boule-baked.jpg)
-![boule crumb](../assets/images/full/2024-02-26/boule-crumb.jpg)
-![boule toasted](../assets/images/full/2024-02-26/boule-toast.jpg)
+![boule baked](../images/full/2024-02-26/boule-baked.jpg)
+![boule crumb](../images/full/2024-02-26/boule-crumb.jpg)
+![boule toasted](../images/full/2024-02-26/boule-toast.jpg)
 
 Bottom of the crust is pretty black, was tough to cut:
-![boule bottom](../assets/images/full/2024-02-26/boule-bottom.jpg)
+![boule bottom](../images/full/2024-02-26/boule-bottom.jpg)
 
 
 ## Bâtard Results
@@ -59,6 +59,6 @@ Bottom of the crust is pretty black, was tough to cut:
 - Due to a bread surplus, didn't cut this open for a day or two.
 - Crumb is for some reason lighter. Good structure though.
 
-![batard baking](../assets/images/full/2024-02-26/batard-baking.jpg)
-![batard baked](../assets/images/full/2024-02-26/batard-baked.jpg)
-![batard crumb](../assets/images/full/2024-02-26/batard-crumb.jpg)
+![batard baking](../images/full/2024-02-26/batard-baking.jpg)
+![batard baked](../images/full/2024-02-26/batard-baked.jpg)
+![batard crumb](../images/full/2024-02-26/batard-crumb.jpg)

@@ -9,4 +9,4 @@ From [The Perfect Loaf](https://www.theperfectloaf.com/my-top-3-leftover-sourdou
 - Will toast walnuts next time, maybe try to candy the ones for the top?
 - Some gummy bits in the bottom. May cook longer next time.
 
-![Banana bread](../assets/images/full/2024-03/bananananana.jpg)
+![Banana bread](../images/full/2024-03/bananananana.jpg)

@@ -27,11 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
 locale: "en-US"
 name: "Brutalist Baker"
-# logo: /assets/images/icon-sm.jpg
+# logo: /images/icon-sm.jpg
 
 author:
   name: "Brutalist Baker"
-  avatar: /assets/images/full/icon.jpg
+  avatar: /images/full/icon.jpg
   bio: "I am a beginning baker."
 
 
@@ -57,8 +57,8 @@ defaults:
 
 # https://rbuchberger.github.io/jekyll_picture_tag/users/configuration/
 picture:
-  # source: "assets/images/full"
-  #output: "assets/images/generated"
+  # source: "images/full"
+  #output: "images/generated"
   # source: ""
   source: ""
   output: "generated"

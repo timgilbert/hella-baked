@@ -28,4 +28,10 @@ var store = [{
         "tags": ["bread","sourdough"],
         "url": "/breadlog/2024/03/06/pumpernickel.html",
         "teaser": null
+      },{
+        "title": "Focaccia",
+        "excerpt":"From King Arthur Had a tough time scraping it from the sides of the pan. Used a pie spatula and let it cool more and then it was ok. Put sliced garlic on half, thyme on the whole thing, boss salt crystals. Garlic mostly dehydrated. Will mince instead next time,...","categories": ["breadlog"],
+        "tags": ["bread","sourdough"],
+        "url": "/breadlog/2024/03/09/focaccia.html",
+        "teaser": null
       }]

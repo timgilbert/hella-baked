@@ -44,4 +44,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 group :jekyll_plugins do
   gem 'jekyll_picture_tag', '~> 2.0'
+  gem 'jekyll-markdown-responsive-image', github: 'tadamcz/jekyll-markdown-responsive-image'
 end

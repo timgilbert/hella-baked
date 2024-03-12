@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/tadamcz/jekyll-markdown-responsive-image.git
+  revision: ea82fc57fb27d815761d1407ddff625cf1e41859
+  specs:
+    jekyll-markdown-responsive-image (0.0.1)
+      jekyll_picture_tag (~> 2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -162,6 +169,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
+  jekyll-markdown-responsive-image!
   jekyll_picture_tag (~> 2.0)
   minimal-mistakes-jekyll
   tzinfo (>= 1, < 3)

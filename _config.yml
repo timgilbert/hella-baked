@@ -57,8 +57,12 @@ defaults:
 
 # https://rbuchberger.github.io/jekyll_picture_tag/users/configuration/
 picture:
-  source: "assets/images/full"
-  output: "assets/images/generated"
+  # source: "assets/images/full"
+  #output: "assets/images/generated"
+  # source: ""
+  source: ""
+  output: "generated"
+  ignore_missing_images: true
 
 sass:
   quiet_deps: true

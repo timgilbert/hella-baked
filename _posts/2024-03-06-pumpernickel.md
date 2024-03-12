@@ -10,18 +10,18 @@ From [Pantry Mama](https://www.pantrymama.com/sourdough-pumpernickel-bread/)
 - Proof in fridge starting at 11:30.
 - Added (toasted) caraway seeds to the initial autolyse (didn't add the salt until stretch+fold 1)
 
-{% picture 2024-03-05/proof.jpg --alt proof %}
+![proof](../assets/images/full/2024-03-05/proof.jpg)
 
 ## Results
 - Nice-looking loaf, if not as tall as I would like. 
 - Getting better at scoring, looks pretty.
 
-{% picture 2024-03-05/cool.jpg --alt Cooling %}
+![Cooling](../assets/images/full/2024-03-05/cool.jpg)
 
-{% picture 2024-03-05/shape.jpg --alt Nice shape %}
+![Nice shape](../assets/images/full/2024-03-05/shape.jpg)
 
 Crumb could be darker.
 
-{% picture 2024-03-05/crumb.jpg --alt Crumb %}
+![Crumb](../assets/images/full/2024-03-05/crumb.jpg)
 
 Good flavor, and nice sweet smell from the molasses.

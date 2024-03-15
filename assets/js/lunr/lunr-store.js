@@ -34,4 +34,16 @@ var store = [{
         "tags": ["bread","sourdough"],
         "url": "/breadlog/2024/03/09/focaccia.html",
         "teaser": null
+      },{
+        "title": "Sourdough Biscuits",
+        "excerpt":"From King Arthur, see blog here I think I underfolded the dough, there were still lots of floury bits No unsalted butter, so I used salted, + kosher salt in same measurements Cut with a little round cutter thing. I think I may have incorrectly twisted a time or two....","categories": ["breadlog"],
+        "tags": ["sourdough","biscuit","failure"],
+        "url": "/breadlog/2024/03/14/sourdough-biscuits.html",
+        "teaser": null
+      },{
+        "title": "Gluten Free Lemon Cookies",
+        "excerpt":"From Fearless Dining. Trying to make these for a friend who is gluten intolerant. Used the same flour as in the recipe, Bob’s Red Mill 1-to-1. Added more lemon than the recipe said (1.5 - 2 tbsp), as I didn’t have lemon extract and I like it lemony. Dough wound...","categories": ["breadlog"],
+        "tags": ["cookie","gluten-free"],
+        "url": "/breadlog/2024/03/15/gluten-free-lemon-cookies.html",
+        "teaser": null
       }]

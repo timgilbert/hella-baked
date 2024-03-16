@@ -35,6 +35,12 @@ var store = [{
         "url": "/breadlog/2024/03/09/focaccia.html",
         "teaser": null
       },{
+        "title": "Extra-Tangy Sourdough Bread, an odyssey",
+        "excerpt":"From King Arthur I was not heading in a good direction with this when disaster struck and the work in progress was destroyed. Tried again and so far it’s looking like a fiasco instead, in keeping with Karl Marx’s observation that history repeats itself first as tragedy, then as farce....","categories": ["breadlog"],
+        "tags": ["sourdough","bread","failure"],
+        "url": "/breadlog/2024/03/13/extra-tangy-sourdough.html",
+        "teaser": null
+      },{
         "title": "Sourdough Biscuits",
         "excerpt":"From King Arthur, see blog here I think I underfolded the dough, there were still lots of floury bits No unsalted butter, so I used salted, + kosher salt in same measurements Cut with a little round cutter thing. I think I may have incorrectly twisted a time or two....","categories": ["breadlog"],
         "tags": ["sourdough","biscuit","failure"],

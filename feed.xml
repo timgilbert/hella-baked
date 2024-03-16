@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-03-16T00:57:05+00:00</updated><id>/feed.xml</id><title type="html">Brutalist Breadlog</title><subtitle>A weblog about stuff I have baked.</subtitle><author><name>Brutalist Baker</name></author><entry><title type="html">Extra-Tangy Sourdough Bread, an odyssey</title><link href="/breadlog/2024/03/16/extra-tangy-sourdough.html" rel="alternate" type="text/html" title="Extra-Tangy Sourdough Bread, an odyssey" /><published>2024-03-16T00:00:00+00:00</published><updated>2024-03-16T00:00:00+00:00</updated><id>/breadlog/2024/03/16/extra-tangy-sourdough</id><content type="html" xml:base="/breadlog/2024/03/16/extra-tangy-sourdough.html"><![CDATA[<p>From <a href="https://www.kingarthurbaking.com/recipes/extra-tangy-sourdough-bread-recipe">King Arthur</a></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-03-16T01:00:39+00:00</updated><id>/feed.xml</id><title type="html">Brutalist Breadlog</title><subtitle>A weblog about stuff I have baked.</subtitle><author><name>Brutalist Baker</name></author><entry><title type="html">Extra-Tangy Sourdough Bread, an odyssey</title><link href="/breadlog/2024/03/16/extra-tangy-sourdough.html" rel="alternate" type="text/html" title="Extra-Tangy Sourdough Bread, an odyssey" /><published>2024-03-16T00:00:00+00:00</published><updated>2024-03-16T00:00:00+00:00</updated><id>/breadlog/2024/03/16/extra-tangy-sourdough</id><content type="html" xml:base="/breadlog/2024/03/16/extra-tangy-sourdough.html"><![CDATA[<p>From <a href="https://www.kingarthurbaking.com/recipes/extra-tangy-sourdough-bread-recipe">King Arthur</a></p>
 
 <p>I was not heading in a good direction with this when disaster struck and the work in progress was destroyed. Tried again and so far it’s looking like a fiasco instead, in keeping with Karl Marx’s observation that history repeats itself first as tragedy, then as farce.</p>
 
 <h1 id="act-1-a-tragedy">Act 1: a tragedy</h1>
 
 <h2 id="autolyse--levain">Autolyse / levain</h2>
+
 <ul>
   <li>Built up a rye starter from my mini-starter in the fridge, used all rye flour, fed twice but on the same day. Seemed healthy when I added it to the autolyse?</li>
   <li>Used 100g KA medium organic rye, 260g AP flour for autolyse. Not sure whether to add more water to counterbalance the rye.</li>
   <li>Mix done at 9pm. Left it in the oven on proof (100F, just turned it on to preheat and then turned it off.)</li>
   <li>Stuck in the fridge, 12:30am. Levain looked hungry (had started to collapse a bit)</li>
-  <li>NB: 2.5 tbsp table salt ~= 15 grams per <a href="https://coolconversion.com/cooking-volume-weight/2.5~tsp~of~table+salt~to~gram">this site</a>. (I’m using kosher salt, it’s less dense so volume measurements aren’t precise)
-    <h2 id="mix">Mix</h2>
-  </li>
+  <li>NB: 2.5 tbsp table salt ~= 15 grams per <a href="https://coolconversion.com/cooking-volume-weight/2.5~tsp~of~table+salt~to~gram">this site</a>. (I’m using kosher salt, it’s less dense so volume measurements aren’t precise)</li>
+</ul>
+
+<h2 id="mix">Mix</h2>
+
+<ul>
   <li>Overnight dough weighs 1247g - 344g bowl = 903g dough</li>
   <li>
     <p>Pretty hungry looking. Def smells tangy.
@@ -23,10 +27,13 @@
 <a href="/_posts/../images/full/2024-03-16/act-1-bulk.jpg"><picture><source srcset="/generated/_posts/../images/full/2024-03-16/act-1-bulk-400-bec5b18da.webp 400w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-600-bec5b18da.webp 600w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-800-bec5b18da.webp 800w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-1000-bec5b18da.webp 1000w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-1500-bec5b18da.webp 1500w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-2000-bec5b18da.webp 2000w" type="image/webp"><source srcset="/generated/_posts/../images/full/2024-03-16/act-1-bulk-400-bec5b18da.jpg 400w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-600-bec5b18da.jpg 600w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-800-bec5b18da.jpg 800w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-1000-bec5b18da.jpg 1000w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-1500-bec5b18da.jpg 1500w, /generated/_posts/../images/full/2024-03-16/act-1-bulk-2000-bec5b18da.jpg 2000w" type="image/jpeg"><img alt="bulking up" src="/generated/_posts/../images/full/2024-03-16/act-1-bulk-800-bec5b18da.jpg" width="3072" height="4080"></picture></a></p>
   </li>
   <li>Bulk ferment started ~2pm, in oven on proof (100F), preheated and then turned off.</li>
-  <li>6:30pm (4.5 hours): even after stretch and folds, dough doesn’t seem very strong and is pretty sticky. Maybe this is the rye? It is rising nicely at least, doubling in size with no problem.
-    <h2 id="disaster">Disaster!</h2>
-  </li>
-  <li>Whoops! The oven was accidentally turned on with the dough inside covered in a shower cap. Plastic melted into it. Not salvageable.</li>
+  <li>6:30pm (4.5 hours): even after stretch and folds, dough doesn’t seem very strong and is pretty sticky. Maybe this is the rye? It is rising nicely at least, doubling in size with no problem.</li>
+</ul>
+
+<h2 id="disaster">Disaster!</h2>
+
+<ul>
+  <li>Whoops! The oven was accidentally turned on with the dough inside, in a bowl covered with a plastic shower cap. Plastic melted into it. Not salvageable.</li>
   <li>Next time: will skip the rye flour and also knead much more in the beginning.</li>
 </ul>
 

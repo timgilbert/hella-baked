@@ -73,3 +73,20 @@ Brutal. You can't shape a thing that has no apparent surface tension. Eventually
 ![bannetons](../images/full/2024-03-16/act-2-bannetons.jpg)
 
 Not sure what to do now. Will wait to see if they rise. Maybe putting them in the fridge for a bit to tighten them up will make it possible to score them, but I'm dubious at this point.
+
+- 9:53pm: popped them in the fridge. Maybe some cold temps will tighten them up? Going to try baking the boule tonight in the Dutch oven. 
+
+## Results
+
+**Failure!**
+
+- 11:30pm: took the top of the Dutch oven off to find a wheat frisbee, ye gods. And here I thought your mother was flat. (Am I sure this was at 450F, not 350F?)
+  ![yo mama](../images/full/2024-03-16/act-2-yo-mama.jpg)
+- 12:15pm: I may try to rent this loaf out to [Odd Job](https://www.youtube.com/watch?v=jL9kNvtdrNM).
+  ![odd job](../images/full/2024-03-16/act-2-discus.jpg)
+  - Internal temp is a solid 206+ F.
+    ![temp](../images/full/2024-03-16/act-2-thermo.jpg)
+  - Crust is a nice color (left it in for 10 minutes past the usual 20 mins covered + 30 mins uncovered in the Dutch oven)
+  - Smells amazing. This is a failure but I can't wait to cut it open.
+  - Perfect pairing with my earlier biscuits. Maybe if I host guests from [Flatland](https://en.wikipedia.org/wiki/Flatland).
+- Remaining bâtard is in the fridge. What is its destiny? Can I re-knead it at this late date? Is the gluten disintegrated by now?

@@ -11,12 +11,15 @@ I was not heading in a good direction with this when disaster struck and the wor
 # Act 1: a tragedy
 
 ## Autolyse / levain
+
 - Built up a rye starter from my mini-starter in the fridge, used all rye flour, fed twice but on the same day. Seemed healthy when I added it to the autolyse?
 - Used 100g KA medium organic rye, 260g AP flour for autolyse. Not sure whether to add more water to counterbalance the rye.
 - Mix done at 9pm. Left it in the oven on proof (100F, just turned it on to preheat and then turned it off.)
 - Stuck in the fridge, 12:30am. Levain looked hungry (had started to collapse a bit)
 - NB: 2.5 tbsp table salt ~= 15 grams per [this site](https://coolconversion.com/cooking-volume-weight/2.5~tsp~of~table+salt~to~gram). (I'm using kosher salt, it's less dense so volume measurements aren't precise)
+
 ## Mix
+
 - Overnight dough weighs 1247g - 344g bowl = 903g dough
 - Pretty hungry looking. Def smells tangy.
   ![so hungry](../images/full/2024-03-16/act-1-lev-collapse.jpg)
@@ -26,8 +29,10 @@ I was not heading in a good direction with this when disaster struck and the wor
 
 - Bulk ferment started ~2pm, in oven on proof (100F), preheated and then turned off.
 - 6:30pm (4.5 hours): even after stretch and folds, dough doesn't seem very strong and is pretty sticky. Maybe this is the rye? It is rising nicely at least, doubling in size with no problem.
+
 ## Disaster!
-- Whoops! The oven was accidentally turned on with the dough inside covered in a shower cap. Plastic melted into it. Not salvageable.
+
+- Whoops! The oven was accidentally turned on with the dough inside, in a bowl covered with a plastic shower cap. Plastic melted into it. Not salvageable.
 - Next time: will skip the rye flour and also knead much more in the beginning.
 
 # Act 2: a farce

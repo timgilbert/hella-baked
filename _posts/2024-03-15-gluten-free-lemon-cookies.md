@@ -15,7 +15,7 @@ From [Fearless Dining](https://www.fearlessdining.com/gluten-free-lemon-cookies/
 - Waited 30 minutes, took it out of the fridge, still seemed sticky, put it back in for another 15. Didn't really make much difference. 
   - I'm unsure what purpose the fridge rest has in the recipe, I'm guessing it's just to make the dough easier to work with.
 
-- Baked 12 minutes. Cookies are chewy but, without much strength. Might try going longer next time to try to stiffen them up a bit.
+- Baked 12 minutes. Cookies are chewy, but without much strength. Might try baking longer next time to try to stiffen them up a bit.
 
 # Results
 
